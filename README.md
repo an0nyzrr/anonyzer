@@ -47,5 +47,5 @@
 
 ## 📫 Связаться со мной
 
-- 💬 **Telegram:** [@senyer7](https://t.me/an0nyzer)
+- 💬 **Telegram:** [@an0nyzer](https://t.me/an0nyzer)
 - 📧 **Email:** sw4klow@gmail.com
